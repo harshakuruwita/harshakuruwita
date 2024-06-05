@@ -1,65 +1,47 @@
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hello, I'm Harsha Kuruwita 🇱🇰
+![GitHub followers](https://img.shields.io/github/followers/ThilinaHewagama?style=social)
+![GitHub stars](https://img.shields.io/github/stars/ThilinaHewagama?style=social)
 
-<a href="https://www.linkedin.com/in/harsha-kuruwita-956b7829/">
-  <img align="left" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
-</a> 
-<a href="https://www.linkedin.com/in/harsha-kuruwita-956b7829//">
-  <img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
-</a> 
-<a href="https://medium.com/@harsha.kuruwita">
-  <img align="left" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25>
-</a>
+##### SwiftUI | Objective-C | ReactNative ( Android, iOS )
+I am a 🧑‍🎓graduate Mobile Application Engineer specializing in native iOS / React Native development from Colombo, Sri Lanka. With over 12 years of experience, I've honed my skills in creating intuitive and performant applications.
 
-<a href="https://github.com/harsha.kuruwita?tab=followers">
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/lakshitha1629?color=green&logo=github">
-</a>
-<br />
-<br />
+#### Certifications
 
-## 👨‍💻 About Me:
+- [Writing Clean Code [Udemy]](http://ude.my/UC-8a0d43e5-d248-4920-9717-524eaeae05eb)
+- [React Native: Tips, Tricks, and Techniques [Udemy]](http://ude.my/UC-a813e8ee-1ece-451d-8045-d50c4fba81cb)
+- [Android App Development Masterclass using Kotlin [Udemy]](http://ude.my/UC-8e2e4853-b75c-4fd6-890b-f8f5720c7f84)
+- [Master CI/CD for iOS Developers [Udemy]]( http://ude.my/UC-25454791-e42b-407c-8cbc-6389a3265f12)
 
-hi, i'm [harsha.kuruwita](https://github.com/harshakuruwita/harshakuruwita), a passionate self-taught Full-Stack Mobile Developer.
+#### Apps on Store 
+- [Ayubo.pro](https://apps.apple.com/us/app/ayubo-pro/id1414129200)
+- [Ayubo.life](https://apps.apple.com/us/app/ayubo-life/id1198169710)
+- [Property Manager](https://apps.apple.com/us/app/b-a-property-manager/id1594166106)
+- [aiScout (AppStore)](https://apps.apple.com/gb/app/aiscout/id1508291341)
+- [aiScout (PlayStore)](https://play.google.com/store/apps/details?id=com.aiscout.player&hl=en_US)
 
-I’m a passionate individual and a technophiles obsessed with the latest technologies. I‘ve always been a great problem solver and creative. I prefer to find new solutions using the latest approaches and systems. I am both driven and self-motivated, and I am constantly experimenting with new technologies and techniques. I take great care in the experience, architecture, and code quality of the things I build.
+<!--
+## About Me
+- 🔭 I’m currently working on various freelance projects and exploring macOS app development using SwiftUI.
+- 🌱 I’m currently learning back-end development to build robust APIs for my apps.
+- 👯 I’m looking to collaborate on innovative iOS projects and open source contributions.
+- 🤔 I’m seeking advice on product design engineering and advanced iOS architectures.
+- 💬 Ask me about anything iOS, Swift, or mobile app development!
+- 📫 How to reach me: [thilina3001@gmail.com](mailto:thilina3001@gmail.com)
+-->
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
-
-  <img align="right" alt="GIF" src="https://github.com/lakshitha1629/lakshitha1629/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-- 💼 any freelance work? do reach, [email](mailto:harsha.kuruwita@gmail.com) 😊
-- 💬 ask me about anything, i am happy to help;
-<hr>
-
-## 🛠️ languages and tools:
-
-<p>
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
-
-</p>
-<hr>
-
-## ⏳ this week i spent my time on:
-
-<!--START_SECTION:waka-->
-
-```text
-flutter 60 hrs    ██████████████▒░░░░░░░░░░   57.17 %
-
-```
-
-<!--END_SECTION:waka-->
-
-### 🚧 my todoist stats:
-
-<!-- TODO-IST:START -->
-
-🏆 Learn new thing  
-🌸 Completed 0 tasks today  
-✅ Completed 663 tasks so far  
-⏳ Longest streak is 10 days
-
-<!-- TODO-IST:END -->
+<!--
+## Projects
+Here are some projects I'm proud of:
+- **[Project Name]**: A brief description of your project. [View on GitHub](#)
+- **[Another Project]**: An overview of another impressive project. [View on GitHub](#)
+-->
 
 
+Feel free to connect with me here on GitHub or through any of the platforms below!
+- [LinkedIn](https://www.linkedin.com/in/thilina-hewagama-ios/)
+- [Twitter](https://twitter.com/thilina3001)
+
+Thank you for visiting my profile!
+[Connect](mailto:thilina3001@gmail.com)
+
+[![Stack Overflow](http://stackoverflow.com/users/flair/1716859.png)](http://stackoverflow.com/users/1716859/thilina-chamin-hewagama)
